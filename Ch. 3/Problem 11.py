@@ -1,0 +1,13 @@
+import turtle
+wn = turtle.Screen()
+alex = turtle.Turtle()
+alex.left(60)
+alex.forward(200)
+alex.right(120)
+alex.forward(200)
+alex.right(150)
+alex.forward(200)
+alex.right(150)
+alex.forward(200)
+alex.right(158)
+alex.forward(300)

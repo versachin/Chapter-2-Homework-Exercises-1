@@ -1,5 +1,6 @@
 import turtle
 wn = turtle.Screen()
+wn.bgcolor("lightgreen")
 alex = turtle.Turtle()
 alex.left(60)
 alex.forward(200)
